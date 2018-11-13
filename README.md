@@ -7,5 +7,5 @@ asciify source
 
     source              source file or directory, must exist
 
-https://github.com/byteatom/scopy
+https://github.com/byteatom/asciify
 )"
